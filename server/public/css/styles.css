@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI",
+    Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  box-sizing: border-box;
+  color: rgba(0, 0, 0, 0.84);
+  line-height: 1.4;
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 20px;
+}
